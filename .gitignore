@@ -1,0 +1,6 @@
+.DS_Store
+*.kdev4
+build/
+dist/
+*.tar.gz
+*.zip
